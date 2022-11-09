@@ -306,3 +306,4 @@ spec:
 ```
 
 We've covered main topics that address the common application developer teams challenges. Next let's talk about cluster administrators. Move to control plane repository to [continue](https://github.com/argocon2022-workshop/control-plane#automating-cluster-management).
+
